@@ -1,2 +1,2 @@
 # Pet-Boutique-Application
-The following application is a Pet Boutique Form.
+The following application is a Pet Boutique Form. Users will be able to enter their personal information (name/phone) and pet information (pet name/DOB/type). After this is done, users will have the choice to select from a list of services offered by the boutique (flea removal, nail clippings, shampoo, fur trimming). When the form is all complete, users will click the "total" button which will then give them their total price. 
